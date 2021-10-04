@@ -1,0 +1,20 @@
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.postal_data_main{
+	display: none;
+}
+#loaderimg{
+  display: none;
+  z-index: 9999;
+  width: 100px;
+  left: 0;
+  object-fit: ;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+}
